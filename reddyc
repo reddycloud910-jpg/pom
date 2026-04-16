@@ -24,6 +24,8 @@
     <!-- Dependencies -->
     <dependencies>
 
+search
+
         <!-- Example: JUnit for testing -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
